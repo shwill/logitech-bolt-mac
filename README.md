@@ -48,3 +48,7 @@ The bundle is ad-hoc signed. Copy it to `/Applications` if you like.
 
 - If Logi Options+ is running, it may react to the pairing session too. Quit it while pairing if it gets in the way.
 - Unofficial project, not affiliated with Logitech.
+
+## License
+
+[MIT](LICENSE)
